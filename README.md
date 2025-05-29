@@ -5,5 +5,5 @@ Sou apaixonado por tecnologia e inovação. Estou sempre em busca de aprender ma
 <hr>
 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,git,github,mysql,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,git,github,mysql,nodejs,react,sqlite)](https://skillicons.dev)
 
