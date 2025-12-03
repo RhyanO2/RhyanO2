@@ -8,5 +8,5 @@ I’m passionate about technology and innovation. I’m always looking to learn 
 <hr>
 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,sequelize,jest,python,git,docker,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,jest,python,git,docker,github)](https://skillicons.dev)
 
