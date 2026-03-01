@@ -2,7 +2,7 @@
 
 My name is Rhyan, I’m 18 years old.
 
-Software Engineering Student
+Software Engineering undergraduate
 
 Solid foundation in Programming Logic, Best Practices, and building Efficient Software. Eager to contribute and grow as a developer.
 
