@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&weight=700&size=32&letterSpacing=-2&pause=1000&color=3CF700&center=false&repeat=false&width=1300&lines=Rhyan+Oliveira)]()
 
-<hr>
 
 
 
