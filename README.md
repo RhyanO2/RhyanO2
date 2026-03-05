@@ -10,8 +10,7 @@ My name is Rhyan Oliveira, I’m a Software Engineering undergraduate from Brazi
 
 
 
-### 🤳 Socials
+### 🌐 Socials and others
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rhyan_O2)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyano2/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rhyands/)
